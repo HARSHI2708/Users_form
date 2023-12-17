@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "firstname": "Abhishek",
+      "lastname": "Onkar",
+      "email": "user@example.com",
+      "phone": "9148130778",
+      "address1": "Hosadurga",
+      "address2": "Bengaluru",
+      "country": "India",
+      "state": "Karnataka",
+      "zipcode": "916004",
+      "id": 1
+    },
+    {
+      "firstname": "Harshitha",
+      "lastname": "Patil",
+      "email": "user@example.com",
+      "phone": "8431409506",
+      "address1": "Koramangala, bengaluru",
+      "address2": "Koramangala, bengaluru",
+      "country": "India",
+      "state": "Karnataka",
+      "zipcode": "577522",
+      "id": 2
+    },
+    {
+      "firstname": "gj",
+      "lastname": "bm",
+      "email": "bjnbm@gmail.com",
+      "phone": "hjcgvhjnmjhgfgh",
+      "address1": "hghjk,mnbv",
+      "address2": "iuygghjmnb",
+      "country": "iuygfghj",
+      "state": "iuyfghjk",
+      "zipcode": "iuyfghj",
+      "id": 3
+    }
+  ]
+}
